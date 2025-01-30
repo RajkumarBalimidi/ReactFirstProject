@@ -1,0 +1,31 @@
+export const Gents = {
+    title: "Gents Fashion",
+    image1:"https://img.ltwebstatic.com/images3_ach/2021/01/05/1609830709ce2b4d1fffe42035f4fc18a7b336129a.jpg",
+    image2:"https://img.kwcdn.com/product/temu-avi/image-crop/bee7b350-7915-4882-9dcd-8dbbf47e1c9c.jpg",
+    image3:"https://m.media-amazon.com/images/I/71I-cik1CyL._AC_UL1500_.jpg",
+    image4:"https://i.pinimg.com/736x/8e/71/8c/8e718c6600523d532a7ba8c1d8fa7f0f.jpg",
+    image5:"https://4.bp.blogspot.com/-y7WBPiTjR6E/TtzGKLGf1tI/AAAAAAAAB8c/b_wWMkHx7Us/s1600/Amir+Adnan+BUSINESS+Collection+2012+-+008+-+www.Fashionhuntworld.Blogspot.com.JPG",
+    image6:"https://i5.walmartimages.com/asr/1041f330-970f-4210-a1a8-f9061e6ab89b_1.dd51e5689fa4d69724e15383322ccff7.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+    price1: "149 INR",
+    price2: "299 INR",
+    price3: "249 INR",
+    price4: "399 INR",
+    price5: "499 INR",
+    price6: "999 INR",
+}
+
+export const Ladies = {
+    title: "Ladies Fashion",
+    image1:"https://styleelle.ca/wp-content/uploads/2021/08/6320_109-59-1455x1819.jpg",
+    image2:"https://www.bnsds.com/wp-content/uploads/2020/05/2763572_532422.jpg",
+    image3:"https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6934762/2018/7/24/42269c67-cff0-4b4b-ae20-2d70a6292e861532412625763-GERUA-Women-Dresses-6061532412625603-1.jpg",
+    image4:"https://www.lmane.com/wp-content/uploads/2020/10/3a-scaled.jpg",
+    image5:"https://i5.walmartimages.com/asr/4931432f-9375-48fe-b623-110e808c4d3c_1.40bdcbeb74b4c381e7e662b8d16f1629.jpeg",
+    image6:"https://www.brandedgirls.com/wp-content/uploads/2015/12/hats.jpg",
+    price1: "249 INR",
+    price2: "699 INR",
+    price3: "749 INR",
+    price4: "899 INR",
+    price5: "999 INR",
+    price6: "399 INR",
+}
